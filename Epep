@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ALDI STORE</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #d62828;
+      color: white;
+      padding: 20px 0;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    img {
+      margin-top: 20px;
+      max-width: 450px;
+      width: 90%;
+      height: auto;
+    }
+    main {
+      margin: 30px auto;
+      max-width: 700px;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    p {
+      font-size: 1.2em;
+      color: #333;
+      line-height: 1.6;
+    }
+    footer {
+      margin-top: 40px;
+      background: #222;
+      color: white;
+      padding: 15px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ALDI STORE</h1>
+  </header>
+
+  <main>
+    <!-- Gambar Logo -->
+    <img src="https://cdn.discordapp.com/attachments/1413407049764835448/1413407222616297573/Tak_berjudul17_20250829214844.png?ex=68bbd18d&is=68ba800d&hm=0bb2f5501503bb6e59181cdd87abd84703f1da69e7fc8c910a2167ed66ca390d&" alt="Logo Aldi Store">
+
+    <!-- Deskripsi -->
+    <p>Aldi menyediakan layanan jual beli akun, dan top up game, yang pasti amanah.</p>
+ <p>-Anti RIP  [PastI]</p>
+ <p>-Amanah [Bgt]</p>
+ <p>-Ganteng [Banget]</p>
+ <p>-Baik [Banget²]</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+
+    <!-- Nomor Admin -->
+    <p>-<p>
+<p>-<p>
+<p>Minat?<p>
+<p>-<p>
+    <a href="https://wa.me/6285721553071">Langsung ke Atmin 😋</a>
+
+ <p>[Amanah BGT]</p>
+
+    <!-- Credit -->
+    <p>-<p>
+    <p>-<p>
+    <p>-<p>
+    <p>- By Aldi & F**** -</p>
+<p>-</p>
+<p>-</p>
+<p>-</p>
+ <p>Jan Lupa Makan🤭</p>
+  </main>
+
+  <footer>
+    <p>© 2025 ALDI STORE - Jgn Lupa Bernapas</p>
+  </footer>
+
+</body>
+</html>
